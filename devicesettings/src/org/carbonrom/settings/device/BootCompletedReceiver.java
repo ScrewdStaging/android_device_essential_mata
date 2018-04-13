@@ -18,7 +18,7 @@
  *
  */
 
-package org.lineageos.settings.device;
+package org.carbonrom.settings.device;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

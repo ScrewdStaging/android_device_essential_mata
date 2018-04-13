@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.device;
+package org.carbonrom.settings.device;
 
 import android.app.ActionBar;
 import android.content.SharedPreferences;
@@ -25,7 +25,7 @@ import android.support.v14.preference.PreferenceFragment;
 import android.util.Log;
 import android.view.MenuItem;
 
-import org.lineageos.settings.device.widget.SeekBarPreference;
+import org.carbonrom.settings.device.widget.SeekBarPreference;
 
 public class TouchscreenSettingsFragment extends PreferenceFragment
         implements SharedPreferences.OnSharedPreferenceChangeListener {

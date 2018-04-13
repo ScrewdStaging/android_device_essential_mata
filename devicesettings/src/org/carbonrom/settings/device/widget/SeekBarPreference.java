@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.device.widget;
+package org.carbonrom.settings.device.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -32,7 +32,7 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 
 import com.android.settingslib.RestrictedPreference;
 
-import org.lineageos.settings.device.R;
+import org.carbonrom.settings.device.R;
 
 /**
  * Based on android.preference.SeekBarPreference, but uses support preference as base.

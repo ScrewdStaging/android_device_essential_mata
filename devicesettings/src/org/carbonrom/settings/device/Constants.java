@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2018 The LineageOS Project
+ * Copyright (C) 2018 The carbonrom Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.device;
+package org.carbonrom.settings.device;
 
 public class Constants {
     public static final String GRIP_REJ_KEY = "touchscreen_grip_rej";

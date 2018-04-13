@@ -23,7 +23,7 @@
             android:title="@string/touchscreen_grip_rej_title"
             android:summary="@string/touchscreen_grip_rej_summary" />
 
-        <org.lineageos.settings.device.widget.SeekBarPreference
+        <org.carbonrom.settings.device.widget.SeekBarPreference
             android:key="touchscreen_smoothness"
             android:title="@string/touchscreen_smoothness_title"
             android:summary="@string/touchscreen_smoothness_summary"
